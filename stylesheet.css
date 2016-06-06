@@ -43,7 +43,7 @@ div.para{
 #logoImg{
 	float: center;
 	-webkit-perspective: 600;
-	height: 150px;
+	height: 200px;
 	width:100%;
 }
 /*#logoImg:hover{
